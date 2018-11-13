@@ -1,0 +1,13 @@
+{
+    "name": "irinasavchenko/magegain-novaposhta",
+    "description": "Forked from bxn5/magegain-novaposhta",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "Irina Savchenko",
+            "email": "issavchenko.2011@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
