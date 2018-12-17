@@ -11,6 +11,7 @@
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
+        "files": [ "src/Magegain/Novaposhta/registration.php" ],
         "psr-0": {
             "Magegain": "src/"
         }
